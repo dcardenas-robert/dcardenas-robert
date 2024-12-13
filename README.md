@@ -11,7 +11,7 @@
   - Laravel ⚡ | Livewire ⚙️  
   - Desarrollo de APIs REST 🌐  
   - Pruebas en Laravel 🧪  
-  - Java ☕ | MySQL 🗄️ | MariaDB 🛠️ | PostgreSQL 🐘 | SQL Server 🖥️  
+  - Java ☕ | MySQL 🗄️ | MariaDB 🛠️ | PostgreSQL 🐘 | SQL Server 🖥️  | Oracle 
 
 - **Frontend**:  
   - Vue.js 🎨 | Alpine.js 🖌️  
